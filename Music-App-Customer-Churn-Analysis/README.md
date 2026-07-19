@@ -20,7 +20,7 @@ This dashboard helps answer questions such as:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard/Dashboard_Screenshot.png)
+![Dashboard](/Music-App-Customer-Churn-Analysis/Dashboard.png)
 
 ---
 
