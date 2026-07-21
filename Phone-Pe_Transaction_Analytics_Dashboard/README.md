@@ -23,7 +23,7 @@ The report enables users to:
 
 ## 📊 Dashboard Preview
 
-![PhonePe Transaction Analytics Dashboard](Dashboard.png)
+![Phone-Pe_Transaction_Analytics_Dashboard](PhonePe_Analysis_Dashboard.png)
 
 ---
 
